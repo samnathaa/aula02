@@ -1,0 +1,19 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "meu primeiro app nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samnathaa/aula02.git"
+  },
+  "author": "samantha martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samnathaa/aula02/issues"
+  },
+  "homepage": "https://github.com/samnathaa/aula02#readme"
+}
